@@ -408,7 +408,7 @@ end
 -- ============================================================
 -- RE-EXECUTE
 -- ============================================================
-local SCRIPT_URL = "https://raw.githubusercontent.com/TzHzk/hub/main/AnimHub.lua"
+local SCRIPT_URL = "loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/TzHzk/TzHzk-Hub/refs/heads/main/animationsTz"))()"))()"
 -- Cambia la URL por la tuya donde tengas el script hosteado
 
 local function reExecute()
